@@ -1,0 +1,62 @@
+
+.datos{
+    width: 30%;
+    height: auto;
+    background-color: darksalmon;
+    border-radius: 20px;
+}
+.estudio{
+    width: 30%;
+    height: auto;
+    background-color: darksalmon;
+    border-radius: 20px;
+}
+.titulo{
+    width: 30%;
+    height: auto;
+    background-color: darksalmon;
+    border-radius: 20px;
+}
+.curso{
+    width: 30%;
+    height: auto;
+    background-color: darksalmon;
+    border-radius: 20px;
+}
+.referencia{
+    width: 30%;
+    height: auto;
+    background-color: darksalmon;
+    border-radius: 20px;
+}
+.enlace{
+    width: 20%;
+    height: auto;
+    background-color: rgb(211, 40, 77);
+    border-radius: 20px;
+}
+.lista1{
+    width: 20%;
+    height: auto;
+    background-color: rgba(130, 206, 209, 0.959);
+    border-radius: 20px;
+}
+.bachiller{
+    width: 20%;
+    height: auto;
+    background-color: rgba(130, 209, 154, 0.959);
+    border-radius: 20px;
+}
+.automatizacion{
+    width: 20%;
+    height: auto;
+    background-color: rgba(130, 209, 154, 0.959);
+    border-radius: 20px;
+}
+.mecatronico{
+    width: 20%;
+    height: auto;
+    background-color: rgba(130, 209, 154, 0.959);
+    border-radius: 20px;
+}
+
